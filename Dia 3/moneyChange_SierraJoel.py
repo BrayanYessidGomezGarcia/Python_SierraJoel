@@ -18,7 +18,4 @@ while count > 9:
 
 while count > coin1:
     for i in range(0,1,1):
-        
-
-
-
+        print(coin1)
